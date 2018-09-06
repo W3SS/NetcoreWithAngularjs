@@ -1,0 +1,11 @@
+bower_components/
+node_modules/
+debugSettings.json
+project.lock.json
+*.user
+[Oo]bj/
+[Bb]in/
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
